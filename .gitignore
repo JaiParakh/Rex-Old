@@ -1,0 +1,10 @@
+node_modules/
+/gmail/credentials.json
+/credentials.json
+/data-token.json
+/token.json
+/data.json
+/astrek.json
+/gmail/token.json
+/gmail/data.json
+/playground.js

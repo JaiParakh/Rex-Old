@@ -1,0 +1,23 @@
+{
+  "name": "rex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jai Parakh",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "googleapis": "^40.0.0",
+    "js-base64": "^2.5.1",
+    "mailparser": "^2.7.1",
+    "mongoose": "^5.8.10",
+    "nodemailer": "^6.2.1",
+    "open": "^6.3.0",
+    "table": "^5.4.6",
+    "yargs": "^15.3.0"
+  }
+}
