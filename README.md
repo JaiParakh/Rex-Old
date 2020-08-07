@@ -28,5 +28,5 @@
 <br>
 <p>
     <img src="https://github.com/JaiParakh/Rex/blob/master/images-readme/Rex-2.png">
-    <em>KAnban Board for managing Job Applications.</em>
+    <em>Kanban Board for managing Job Applications.</em>
 </p>
