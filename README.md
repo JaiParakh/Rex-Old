@@ -21,4 +21,5 @@
 
 ## Screenshots
 
-<img src="">
+<img src="https://github.com/JaiParakh/Rex/blob/master/images-readme/Rex-1.png">
+<img src="https://github.com/JaiParakh/Rex/blob/master/images-readme/Rex-2.png">
