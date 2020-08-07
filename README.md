@@ -21,5 +21,12 @@
 
 ## Screenshots
 
-<img src="https://github.com/JaiParakh/Rex/blob/master/images-readme/Rex-1.png">
-<img src="https://github.com/JaiParakh/Rex/blob/master/images-readme/Rex-2.png">
+<p>
+    <img src="https://github.com/JaiParakh/Rex/blob/master/images-readme/Rex-1.png">
+    <em>Information parsed from the emails which now be used to create Google Calendar Events.</em>
+</p>
+<br>
+<p>
+    <img src="https://github.com/JaiParakh/Rex/blob/master/images-readme/Rex-2.png">
+    <em>KAnban Board for managing Job Applications.</em>
+</p>
